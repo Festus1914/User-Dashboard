@@ -1,4 +1,4 @@
-/*
+
 const { ApolloServer, gql } = require('apollo-server-express');
 const express = require('express');
 const cors = require('cors');
@@ -85,4 +85,3 @@ server.start().then(() => {
     console.log(`Server running at http://localhost:4000${server.graphqlPath}`)
   );
 });
-*/
